@@ -10,6 +10,8 @@
 
 # production
 /build
+.env
+/public/assets/*
 
 # misc
 .DS_Store
